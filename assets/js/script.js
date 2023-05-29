@@ -50,8 +50,8 @@ sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); }
 //}
 
 // add click event to modal close button
-modalCloseBtn.addEventListener("click", testimonialsModalFunc);
-overlay.addEventListener("click", testimonialsModalFunc);
+//modalCloseBtn.addEventListener("click", testimonialsModalFunc);
+//overlay.addEventListener("click", testimonialsModalFunc);
 
 
 
